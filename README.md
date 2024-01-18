@@ -21,5 +21,66 @@ use simpler price range groupings to help direct their efforts.
     What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
     What differences can you find in ordering habits of different customer profiles? 
 
+## Key Python learnings from this project:
+
+(4.3)
+
+- Data Exploration
+
+- Reviewing Data with DF.head(), DF.Tail() , DF.Describe(), DF.Intro()
+
+(4.4)
+
+- Data Wrangling :
+
+- Dropping columns with df.drop()
+
+- Searching for missing Variables with df.value_counts()
+
+- Renaming columns with df.rename()
+
+- Reviewing data types with  dtypes()
+
+- Transposing data with DF'name'.T
+
+- Formatting data dictionary: to_dict()
+
+- Filtering for specific result
+
+- Exporting data frame to CSV file
+
+(4.5)
+
+- Searching for mixed data types
+
+- Missing Values: .isnull()
+
+- Isolating for specific missing values
+
+- Treating missing values: "Flagging" the variable, Replacing with mean or median, Remove or filter out data
+
+(4.6)
+
+- Concatenate Data DF_long , DF_Wide
+
+- Joining Data
+
+- Merging Data (Inner, Left, Right, Outer Joins)
+
+- Exporting File with pkl format
+
+(4.7)
+
+- Creating new columns as a "flag". Ex: "if the item’s price is lower than or equal to $5, it will be labeled a “low-range product.”
+
+- Limiting data shown to only a certain amount of rows. Ex: DF[:100] 
+
+- Locate data with a particular result: DF.loc
+
+- 
+
+
+
+
 
 
