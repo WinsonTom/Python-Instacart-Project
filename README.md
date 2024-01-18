@@ -77,9 +77,49 @@ use simpler price range groupings to help direct their efforts.
 
 - Locate data with a particular result: DF.loc
 
-- 
+
+(4.8)
+
+- Viewing single columns
+
+- Viewing These columns only
+
+- Aggregating data: External table to show mean, min, max, mode
+
+- Groupby - Simpler table than aggregating shown
+
+- Transform function
+
+- Frequency checks
 
 
+(4.9)
+
+- Renaming columns
+
+- Checking for NaN (empty cells) - “Summing all empty cells within a column”
+
+- View specific columns with NaN
+
+- Replace all Null Values
+
+- Creating bar charts, histograms, scatter plots, line charts
+
+- Exporting charts
+
+(4.10)
+
+- Removing PII
+
+- “If then statement”
+
+- Filtering out data
+
+- Create chart with ONLY this amount of data
+
+- Customized Bar charts
+
+- Organizing questions and answers all within a custom report that documents each step to get the information.
 
 
 
